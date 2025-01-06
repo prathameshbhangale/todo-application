@@ -1,0 +1,3 @@
+Todo List Application
+
+This is a full-stack Todo List application where users can register, log in, and manage their todos. It features authentication, CRUD operations for todos (add, remove, edit, delete), and is built with React on the frontend and Node.js with MongoDB on the backend.
