@@ -1,0 +1,55 @@
+
+# Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+package-lock.json
+yarn.lock
+
+# Environment variables
+.env
+.env.local
+.env.development
+.env.test
+.env.production
+
+# Logs
+logs/
+*.log
+*.log.*
+
+# Dependency directories
+/coverage
+/.nyc_output
+/karma-debug.log
+
+# Build output
+/build
+/dist
+/coverage
+/public/build
+/public/dist
+
+# React
+/node_modules/
+npm-debug.log
+*.log
+build/
+
+# VS Code
+.vscode/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# IDE or Editor specific
+.idea/
+
+# JetBrains
+/.idea/
+
+# Linux
+directory/
