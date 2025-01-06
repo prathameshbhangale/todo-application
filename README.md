@@ -32,5 +32,5 @@ This is a full-stack Todo List application where users can register, log in, and
 
 ---
    ```bash
-   git clone https://github.com/yourusername/todo-list-app.git
+   git clone https://github.com/prathameshbhangale/todo-application
    
